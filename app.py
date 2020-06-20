@@ -25,6 +25,8 @@ def ans(word):
 	
 	else:
 		return "The word doesn't exist. Please double check it."
+	
+	print("Thank you for using. Follow me :- @ninadc32") 
 
 word=input("Enter the word : ")
 
